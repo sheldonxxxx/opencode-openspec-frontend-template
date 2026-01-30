@@ -31,6 +31,10 @@ npm install -g uipro-cli
 
 # Vercel Agent Skills - AI agent capabilities for React, Next.js, web design
 npx add-skill vercel-labs/agent-skills
+
+# Agent broswer
+npm install -g agent-browser
+agent-browser install  # Download Chromium
 ```
 
 ### Project Setup
